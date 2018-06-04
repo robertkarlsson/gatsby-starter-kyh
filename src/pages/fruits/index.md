@@ -1,10 +1,8 @@
 ---
-templateKey: 'fruits-page'
-path: /fruits
+templateKey: fruits-page
 title: Our Fruits
 image: /img/jumbotron.jpg
-heading: What we offer
-test: This is a test
+heading: The fruits we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -100,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
